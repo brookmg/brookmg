@@ -57,7 +57,7 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
   </td>
     <td width="50%">
 
-[![Spotify](https://spotify-readme-plum.vercel.app/api/spotify-playing)](https://open.spotify.com/user/brookmg)
+[![Spotify](https://spotify-readme-plum.vercel.app/api/spotify-playing)](https://open.spotify.com/user/wqe3ges2o5xoao39bv0h065uf)
 
 </td></table>
 
