@@ -4,6 +4,8 @@ on:
   schedule:
     # Runs at 12am IST
     - cron: '30 18 * * *'
+  issues:
+    types: [opened, edited, milestoned]
 
 jobs:
   update-readme:
