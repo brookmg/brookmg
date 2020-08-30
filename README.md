@@ -45,6 +45,10 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
 ```
 -->
 
+<details>
+<summary> 😎 More Detail </summary>
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
@@ -117,6 +121,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
 
 <!--
 <details>
