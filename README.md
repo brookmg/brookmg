@@ -45,6 +45,9 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
 ```
 -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 <details>
 <summary>More...</summary>
