@@ -50,11 +50,11 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1,598 Contributions in the Year 2020
+> 🏆 1,600 Contributions in the Year 2020
  > 
 > 📦 107.4 kB Used in Github's Storage 
  > 
