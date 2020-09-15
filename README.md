@@ -18,7 +18,7 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
      alt="My Instagram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
 </a>
-<a href="https://www.twitter.com/brookmezgebu">
+<a href="https://www.twitter.com/brook_mezgebu">
   <img width="32" align="left"
      alt="My Instagram profile"
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">
