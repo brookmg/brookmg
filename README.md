@@ -1,4 +1,4 @@
-### ሰላም, Brook Here 👋🏾
+### ሰላም, Brook Here 👋🏾                    
 
 Nice to meet you. My name is Brook Mezgebu. I am a student. Software Engineer by ♥ 👨🏾‍💻.
 Currently I'm working on Android and all things related. I'm based in 🇪🇹
@@ -29,10 +29,11 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
      src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">
 </a>
 <br><br>
+
+![](https://komarev.com/ghpvc/?username=brookmg&color=007575&style=flat-square&label=ተመልካች)
 <hr/>
 
-![GithubStars](https://github-readme-stats.vercel.app/api/?username=brookmg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-  
+![GithubStats](https://github-readme-stats.vercel.app/api/?username=brookmg&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <!-- [![Spotify](https://spotify-readme-plum.vercel.app/api/spotify-playing)](https://open.spotify.com/user/wqe3ges2o5xoao39bv0h065uf) -->
 
@@ -48,9 +49,7 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
 <details>
 <summary> 😎 More Detail </summary>
 
-
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My Github Data** 
 
