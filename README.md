@@ -56,7 +56,7 @@ Currently I'm working on Android and all things related. I'm based in 🇪🇹
 
 > 🏆 1,770 Contributions in the Year 2020
  > 
-> 📦 117.3 kB Used in Github's Storage 
+> 📦 117.4 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
