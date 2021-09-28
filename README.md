@@ -1,6 +1,6 @@
 ### ሰላም, Brook Here 👋🏾                    
 
-Nice to meet you. My name is Brook Mezgebu. I am a student. Software Engineer by ♥ 👨🏾‍💻.
+Nice to meet you. My name is Brook Mezgebu. I am Software Engineer by ♥ 👨🏾‍💻.
 Currently I'm working on Android and all things related. I'm based in 🇪🇹
 
 <a href="https://github.com/brookmg">
